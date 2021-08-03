@@ -1,4 +1,6 @@
 ## Amplify Geo Library
+- Removed Amplify file (sensitive data)
+
 ### Required libraries
 ```javascript
     "@aws-amplify/ui-react": "^1.2.8",
