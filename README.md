@@ -1,5 +1,5 @@
 ## Amplify Geo Library
-- Removed Amplify file (sensitive data)
+- Removed Amplify Folder (sensitive data)
 
 ### Required libraries
 ```javascript
