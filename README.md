@@ -9,3 +9,9 @@
 ```
 
 Seems [`maplibre-gl-js-amplify`](https://github.com/aws-amplify/maplibre-gl-js-amplify) breaks @aws-amplify/auth
+
+install steps
+amplify add geo
+  - default auth (username)
+  - default map
+  - default location search
